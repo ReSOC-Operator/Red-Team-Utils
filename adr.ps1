@@ -13223,7 +13223,7 @@ If ($Log)
 }
 
 #Invoke-ADRecon -GenExcel $GenExcel -Method $Method -Collect $Collect -DomainController $DomainController -Credential $Credential -OutputType $OutputType -ADROutputDir $OutputDir -DormantTimeSpan $DormantTimeSpan -PassMaxAge $PassMaxAge -PageSize $PageSize -Threads $Threads -OnlyEnabled $OnlyEnabled -Logo $Logo
-$OutputDir -DormantTimeSpan $DormantTimeSpan -PassMaxAge $PassMaxAge -PageSize $PageSize -Threads $Threads -OnlyEnabled $OnlyEnabled -Logo $Logo
+
 
 If ($Log)
 {
